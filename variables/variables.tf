@@ -1,4 +1,4 @@
-variable "ami_id" {
+variable "instance" {
   description = "RHEL 9 JOINDEVOPS IMAGE"
   type        = string
   default     = "ami-0220d79f3f480ecf5"
